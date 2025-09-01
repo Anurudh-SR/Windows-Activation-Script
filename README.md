@@ -15,10 +15,7 @@ This project contains a Windows batch script that automates two tasks:
 
 -  assign the path for your Windows key files and disk initialization script to global variables at the top of your batch script:
 
--  :: ----------- GLOBAL FILE PATHS -----------
-set "HOME_KEY_FILE=C:\Users\User\Desktop\win.txt"
-set "PRO_KEY_FILE=C:\Users\User\Desktop\win pro.txt"
-set "DISK_SCRIPT=C:\Users\User\Desktop\diskini.ps1"
-:: -----------------------------------------
+
+<img width="535" height="106" alt="image" src="https://github.com/user-attachments/assets/a50ba055-4f0d-47c1-9cb7-5d485ca91a90" />
 
 Ensure your disk initialization PowerShell script exists at the specified location.
